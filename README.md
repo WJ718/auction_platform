@@ -20,11 +20,19 @@ Node.js 기반의 실시간 온라인 경매 웹 애플리케이션입니다.<br
 
 
 ## 화면 예시
-메인 페이지	상품 등록
-<img src="./images/main.png" width="400"/>	<img src="./images/upload_goods.png" width="400"/>
-
+메인 페이지<br>
+<img src="./images/main.png"/><br>
+<br>
 회원가입	로그인 성공
-<img src="./images/signup.png" width="400"/>	<img src="./images/login_success.png" width="400"/>
-
-경매방 (입찰)	등록 상품 목록
-<img src="./images/room.png" width="400"/>	<img src="./images/goods.png" width="400"/>
+<img src="./images/signup.png"/><br>
+<br>
+로그인 성공<br>
+<img src="./images/login_success.png"/><br>
+상품 등록<br>
+<img src="./images/upload_goods.png"/><br>
+<br>
+경매방 입장<br>
+<img src="./images/room.png"/><br>
+<br>
+상품 목록<br>
+<img src="./images/goods.png"/><br>
